@@ -1,0 +1,19 @@
+.hedder{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: transparent linear-gradient(90deg, #008291eb 0%, #004959eb 55%, #002533eb 100%) 0% 0% no-repeat padding-box;
+    /* border-radius: 5px; */
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.HelpIcon{
+    margin-right: 50%;
+}
+.title{
+    margin-left:1% ;
+    margin-bottom: 2%;
+}
+.FullScreenIcon{
+    margin-right: 2%;
+}
